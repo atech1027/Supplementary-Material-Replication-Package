@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+statsmodels==0.14.2
+linearmodels==5.6
+matplotlib==3.8.4
+scikit-learn==1.5.1
+tensorflow==2.15.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+sec-edgar-downloader==5.0.2
+fredapi==0.5.1
